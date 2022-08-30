@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": "./",
-    "target": "es5",
+    "target": "es2015",
     "lib": [
       "dom",
       "dom.iterable",
@@ -20,7 +20,11 @@
     "jsx": "preserve",
     "paths": {
       "@components/*": ["components/*"],
-      "@styles/*": ["styles/*"]
+      "@styles/*": ["styles/*"],
+      "@utils/*": ["utils/*"],
+      "@own-types/*": ["types/*"],
+      "@lib/*": ["lib/*"],
+      "@data/*": ["data/*"],
     },
     "moduleResolution": "node"
   },

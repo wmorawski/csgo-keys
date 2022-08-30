@@ -1,0 +1,242 @@
+{
+  "cases": [
+    {
+      "name": "Dragon",
+      "price": 135,
+      "image": "/assets/images/cases/dragon.png",
+      "items": [
+        {
+          "weapon": "UMP-45",
+          "model": "Grand Prix",
+          "image": "/assets/images/items/ump45-grandprix.png",
+          "value": 39,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "PP-Bizon",
+          "model": "Osiris",
+          "image": "/assets/images/items/ppbizon-osiris.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "FAMAS",
+          "model": "Neural Net",
+          "image": "/assets/images/items/famas-neuralnet.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "Five-SeveN",
+          "model": "Triumvirate",
+          "image": "/assets/images/items/fiveseven-triumvirate.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "MAG-7",
+          "model": "Petroglyph",
+          "image": "/assets/images/items/mag7-petroglyph.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "Glock-18",
+          "model": "Royal Legion",
+          "image": "/assets/images/items/glock-royallegion.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "SSG 08",
+          "model": "Ghost Crusader",
+          "image": "/assets/images/items/ssg-ghostcrusader.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "P90",
+          "model": "Chopper",
+          "image": "/assets/images/items/p90-chopper.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "Glock-18",
+          "model": "Grinder",
+          "image": "/assets/images/items/glock-grinder.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "P2000",
+          "model": "Handgun",
+          "image": "/assets/images/items/p2000-handgun.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "Glock-18",
+          "model": "Steel Disruption",
+          "image": "/assets/images/items/glock-steel.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "USP-S",
+          "model": "Guardian",
+          "image": "/assets/images/items/usp-guardian.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "AUG",
+          "model": "Aristocrat",
+          "image": "/assets/images/items/aug-aristocrat.png",
+          "value": 47,
+          "rarity": { "kind": "mythical", "rate":  0.1598 }
+        },
+        {
+          "weapon": "P250",
+          "model": "Franklin",
+          "image": "/assets/images/items/p250-franklin.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Galil AR",
+          "model": "Eco",
+          "image": "/assets/images/items/galil-eco.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Five-SeveN",
+          "model": "Fowl Play",
+          "image": "/assets/images/items/fiveseven-fowlplay.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Famas",
+          "model": "Djinn",
+          "image": "/assets/images/items/famas-djinn.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Five-SeveN",
+          "model": "Monkey Businnes",
+          "image": "/assets/images/items/fiveseven-monkey.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "SCAR-20",
+          "model": "Bloodsport",
+          "image": "/assets/images/items/scar-bloodspot.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Deseart Eagle",
+          "model": "Conspiracy",
+          "image": "/assets/images/items/deagle-conspiracy.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Nova",
+          "model": "Hyper Beast",
+          "image": "/assets/images/items/nova-hyperbeast.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "MP9",
+          "model": "Airlock",
+          "image": "/assets/images/items/mp9-airlock.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "UMP-45",
+          "model": "Primal Saber",
+          "image": "/assets/images/items/ump45-primalsaber.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Desert Eagle",
+          "model": "Kumicho Dragon",
+          "image": "/assets/images/items/deagle-kumicho.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Tec-9",
+          "model": "Fuel Injector",
+          "image": "/assets/images/items/tec-fuel.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Glock-18",
+          "model": "Water Elemental",
+          "image": "/assets/images/items/glock-water.png",
+          "value": 85,
+          "rarity": { "kind": "legendary", "rate": 0.032 }
+        },
+        {
+          "weapon": "Galil AR",
+          "model": "Chatterbox",
+          "image": "/assets/images/items/galil-chatterbox.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "AUG",
+          "model": "Chameleon",
+          "image": "/assets/images/items/aug-chameleon.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "M4A4",
+          "model": "Desert-Strike",
+          "image": "/assets/images/items/m4a4-desertstrike.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "M4A$",
+          "model": "The BattleStar",
+          "image": "/assets/images/items/m4a4-battlestar.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "P2000",
+          "model": "Fire Elemental",
+          "image": "/assets/images/items/p2000-fireelemental.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "M4A4",
+          "model": "Bullet Rain",
+          "image": "/assets/images/items/m4a4-bulletrain.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        },
+        {
+          "weapon": "M4A1-S",
+          "model": "Cyrex",
+          "image": "/assets/images/items/m4a1-cyrex.png",
+          "value": 230,
+          "rarity": { "kind": "ancient", "rate": 0.0064 }
+        }
+      ]
+    }
+  ]
+}
